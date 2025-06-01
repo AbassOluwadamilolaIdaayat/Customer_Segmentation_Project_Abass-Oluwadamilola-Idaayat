@@ -19,5 +19,6 @@ Recommendations
 * Product Strategy: Focus on Wines and Meat for older groups; promote Fruits/Sweets for younger customers.*Channel Strategy: Enhance Catalog marketing for 60+; optimize Web platform for Under 30.
 
 Conclusion
+
 The Customer Segmentation Dashboard effectively segments customers using RFM analysis, providing clear visualizations of Age Group trends in spending, product preferences, campaign responses, and channel usage. The sorted Age_Group (Under 30 to 60+) enhances readability, and the two-axis Combo Chart highlights correlations between spend and campaign engagement.  The insights enable targeted marketing strategies to maximize customer retention, revenue and reduce Customer Churn Rate.
 These recommendations enable stakeholders to leverage the Customer Segmentation Dashboard for targeted marketing, optimized channels, and improved data quality. By focusing on Champions’ loyalty, Potential’s conversion, and At-Risk’s re-engagement, while tailoring products and channels by Age Group, the business can drive significant revenue growth and customer satisfaction. Regular dashboard monitoring and data validation will ensure sustained success.
